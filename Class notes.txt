@@ -1,0 +1,209 @@
+^^^^ Workshop on Agentic AI ^^^^^
+2025 -- agentic ai dominant the world 
+ session is live --- Nareshit Youtube 
+====
+
+1- my introduction 		
+		https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+	18yr | 10 yr -- corporate training 
+
+2- AI can mimic Human intelligent
+
+3- AI --> application where user or developer need to train the data and write 
+			some sort of ml algorithm, dl algorithm to build AI application 
+		
+	8gb -- 8gb data 
+					excel
+					csv, image, text, video, audi 
+					
+			feed these data to the machine & deve write some algorithm
+		ml algo, nlp alog, neural network 
+
+AI -- User need to train the data ( feed the data)
+vs
+GENERATIVE AI -- user no need to train the data 
+		data is automatically trained openai , google, meta, deepseek
+	model generate new content text, imge generation, video generation 
+vs 	
+AGENTI AI -->
+	agenti ai can take the decission, make decission automatically 
+
+generative ai -- create new content 
+agentic ai -- make or take decision automatically
+
+4- everyone install vs code 
+		
+		
+5- AI mimic human intellignece 
+		user train the data ( text, speech, image, video)
+		user write ml algo, nlp, dl, nn architecture to AI application 
+		
+	generative ai -- generate new contennt 
+				data trained by opeani, google, meta, etc user no need to train the data
+		
+	agentic ai -- use framework where it connect to llms and make the decission or take 
+					the decission automatically
+					
+6- if you dont understan ( monday 8:30am) 
+		experice, fresher, non-tech, tech ( talk to me )
+		
+7- AGENTIC AI -- We build agents
+
+8- LETS DO THE PROJECT 
+	
+9- AGENTIC AI FRAMEWORK
+	PHIDATA
+	LANGCHAIN, LANGGRAPH
+	CREW AI 
+	AUTOGEN
+	SWORN
+
+10- duck-duck go search
+----
+Lets start the project -->
+---
+
+1- google -- type groq 
+		https://groq.com/
+2- dev console - please login using your gmail.com 
+3- create api key -- > 
+		you can generate API key --> 
+	
+	=====GROQ_API_KEY 
+	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
+
+4- groq 
+		llm model we cannot build using locally 
+		we need some interface to build llm 
+
+5- model -- (llama-3.3-70b-versatile)
+		
+	
+6- agenti ai framework - PHI DATA ( agentic ai framework)
+
+7- vs code -- install few extren ( pythion)
+		folder -- agentic_ai_workshop
+		created file -- agentitai.py
+		open terming - pip install dotenv 
+		
+3 code session is live 
+
+		if you dont know vs code please dont workd
+		if you know then work 
+		session is live -- you can follow the live video 
+	
+8- pip install phi 
+
+	pip install dotenv
+	pip install phi
+	store your api key in .env file 
+
+9- every think is recording 
+
+10- we just test the phi framework ( we can test working fine)
+
+11- lets build some agents using help of DUCK DUCK GO SEARCH
+
+	you have nt work before in vs code 
+	now you got error 
+
+llm models are pretrain from internet, text, corpus
+	duck duck go search also one of the search it provide the safe information 
+	
+phi -- agentic ai framwork
+interface to connect with llm - groq lpu
+search tool - duck duck go 
+
+
+project:1 - we test the phi age
+project:2 - we build single agents using 
+project:3 -- we build multi agents using openAi ( 
+		purchase api key 
+
+steps to build multi agents -->
+--
+1- platform.openai.com
+2- dashboard
+3- generate new api key
+4- groq api key-- free one ( no need to pay)
+	but open ai api_key (paid one)
+5- min $5 -- 500rs ( duratioan -- 1yr)
+		activate billing and cancel billing 
+6- everyone to purchase use openai_api key
+7- multiagent
+
+multiagen -- openai 
+learn -- opensouce
+organizt -- client ( data)
+
+
+
+
+like 
+comments 
+share your friend
+join tomorrow new batch (6months)
+
+		
+
+		
+
+
+
+
+
+	
+		
+
+		
+
+
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+Old student -- welcom to workshop (work code with me easily)
+New student -- who dont know how to install the software
+
+
+
+
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+	
